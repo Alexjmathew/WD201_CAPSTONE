@@ -39,8 +39,8 @@ Live Demo
 https://drive.google.com/file/d/1pkwrmiI-ieAMXTmUXlATvo2JI3AmeG1F/view
 
 
-screenshots
-
+Screenshots
+https://github.com/Alexjmathew/WD201_CAPSTONE/blob/main/Screenshots/Screenshot%202025-06-08%20113917.jpg
 
 
 
