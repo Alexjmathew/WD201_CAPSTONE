@@ -30,6 +30,7 @@ Enrollment System: Students can enroll in courses, and admins can view enrollmen
 
 Progress Tracking: Track student progress with completion status for pages.
 
+SCREENSHOTS 
 
 
 Security: CSRF protection, input sanitization, and session management.
